@@ -11,3 +11,6 @@ docker run \
 -p 5000:5000 \
 mylesagray/twitter-counter
 ```
+
+# run app
+http://localhost:5000/count/{{queryhere}}
